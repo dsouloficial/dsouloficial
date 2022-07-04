@@ -8,7 +8,7 @@
 [![social](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dsoul_oficial)
 [![social](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://Twitter.com/dsouloficial)
 [![social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://Linkedln.com/DenilsonBernardo)
-[![social](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/DenilsonBernardo)
+
 
 ### tecnologias que eu uso no meu dia 
 
