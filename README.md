@@ -1,5 +1,5 @@
 
-### ola! Eu sou Denilson Bernardo Sou estudante de Analise e desenvolvimento de Sistema!
+### ola! Eu sou Denilson Bernardo Sou Estudante de Analise e desenvolvimento de Sistema!
 
 <div align="center">
   <a href="https://github.com/dsouloficial">
@@ -12,7 +12,7 @@
 [![social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/denilson-bernardo-5088b214a)
 [![social](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/channel/UCIRBdF7Yp7-hAG5NEfQdS4g)
 
-### tecnologias que eu uso no meu dia 
+### Tecnologias que eu uso no meu dia a dia 
 
 <div style="display: inline_block"><br/>
 <img algin="center" alt= html5 src= https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white />
