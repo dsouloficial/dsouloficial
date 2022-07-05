@@ -1,5 +1,5 @@
 
-### ola! Eu sou Denilson Bernardo Sou Estudante de Analise e desenvolvimento de Sistema!
+### ola! Eu sou Denilson Bernardo Sou Estudante de Analise e desenvolvimento de Sistemas!
 
 <div align="center">
   <a href="https://github.com/dsouloficial">
