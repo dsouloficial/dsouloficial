@@ -1,11 +1,15 @@
 
 ### ola! Eu sou Denilson Bernardo Sou Estudante de Analise e desenvolvimento de Sistemas!
 
-<div align="center">
-  <a href="https://github.com/dsouloficial">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=dsouloficial&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsouloficial&theme=dracula&hide_border=false&&layout=compact"/>
+ <p align="center">
+  <img width="400em" src="https://github-readme-stats.vercel.app/api?username=dsouloficial&show_icons=true&locale=en&theme=radical"               
+       alt="dsouloficial"/>
+  <img width="400em" src="https://github-readme-streak-stats.herokuapp.com/?user=dsouloficial&theme=radical" alt="dsouloficial" />
+</p>
 
+<!-- <p align="center"> 
+  <img width="600em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=somekindofwallflower&layout=compact&langs_count=999&include_all_commits=true&hide_progress=true&hide_border=true&theme=radical&hide=">
+</p> -->
 
 [![social](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dsoul_oficial)
 [![social](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://Twitter.com/dsouloficial)
@@ -28,3 +32,5 @@
   ![Snake animation](https://github.com/dsouloficial/dsouloficial/blob/output/github-contribution-grid-snake.svg)
   
 </div>
+
+ 
