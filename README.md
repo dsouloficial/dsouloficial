@@ -8,8 +8,8 @@
 [![social](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/channel/UCIRBdF7Yp7-hAG5NEfQdS4g)
 
  <p align="center">
-  <img width="400em" src="https://github-readme-stats.vercel.app/api?username=dsouloficial&show_icons=true&locale=en&theme=radical"               
-       alt="dsouloficial"/>
+  <img width="400em" src="https://github-readme-stats.vercel.app/api?username=dsouloficial&show_icons=true&locale=en&theme=radical" alt="dsouloficial"/>          
+       
   <img width="400em" src="https://github-readme-streak-stats.herokuapp.com/?user=dsouloficial&theme=radical" alt="dsouloficial" />
 </p>
 
