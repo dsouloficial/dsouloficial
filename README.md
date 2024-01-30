@@ -11,7 +11,7 @@
 ---
 
 - 💻 I'm Developer
-- 💪 I already counted on: `.CSS3` | `.HTML5` | `.React` | `.javaScript` | `.FIGMA`;
+- 💪 I already counted on: `.CSS3` | `.HTML5` | `.React` | `.javaScript` | `.FIGMA`| `.UX`;
 - ❤ I am passionate about developing projects
 - 🔭 an eternal apprentice
 - ✋ I accept improvement sugetões for my codes
