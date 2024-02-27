@@ -2,8 +2,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FF7F&height=120&section=header"/>
 
 
-<h3 align="center">Hi there ✨🚀</h3>
-<h3 align="center">I'm Denilson Bernardo! </h3>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=45&center=true&vCenter=true&width=1000&lines=<Olá,+Eu+Sou+Denilson!/>+:%29;<Desenvolvedor+Front-End/>+;<Hello,+I'm+Denilson!/>+:%29;<Front-End+Developer/>;)](https://git.io/typing-svg)
 
 
 
