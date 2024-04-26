@@ -10,7 +10,7 @@
 - In 2020, I started my systems analysis and development course. Since then, I dedicated myself to the world of programming, with the aim of improving my acquired skills and contributing to the development of projects that make a difference in current global technology. My professional goals are to work as a web and mobile developer.
 ---
 
-- 💻 I'm Developer
+ <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Student%20Medium-Dark%20Skin%20Tone.png" alt="Man Student Medium-Dark Skin Tone" width="25" height="25" /> Enhancing my development skills at [Rocketseat](https://Rocketseat.com.br/).
 - 💪 I already counted on: `.CSS3` | `.HTML5` | `.React` | `.javaScript` | `.FIGMA`| `.UX`;
 - ❤ I am passionate about developing projects
 - 🔭 an eternal apprentice
