@@ -1,37 +1,49 @@
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FF7F&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=header"/>
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FA9A&size=45&center=true&vCenter=true&width=1000&lines=<Olá,+Eu+Sou+Denilson!/>+:%29;<Desenvolvedor+Front-End/>+;<Hello,+I'm+Denilson!/>+:%29;<Front-End+Developer/>;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8A2BE2&size=45&center=true&vCenter=true&width=1000&lines=<Olá,+Eu+Sou+Denilson!/>+:%29;<Desenvolvedor+Front-End/>+;<Hello,+I'm+Denilson!/>+:%29;<Front-End+Developer/>;)](https://git.io/typing-svg)
 
 
 
 - In 2020, I started my systems analysis and development course. Since then, I dedicated myself to the world of programming, with the aim of improving my acquired skills and contributing to the development of projects that make a difference in current global technology. My professional goals are to work as a web and mobile developer.
 ---
 
- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Student%20Medium-Dark%20Skin%20Tone.png" alt="Man Student Medium-Dark Skin Tone" width="25" height="25" /> Enhancing my development skills at [Rocketseat](https://Rocketseat.com.br/).
-- 💪 I already counted on: `.CSS3` | `.HTML5` | `.React` | `.javaScript` | `.FIGMA`| `.UX`;
-- ❤ I am passionate about developing projects
-- 🔭 an eternal apprentice
-- ✋ I accept improvement sugetões for my codes
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="25" height="25" />  Hello! My name is Denilson Bernardo and I am a Frontend Developer. <br />
 
----- 
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Student%20Medium-Dark%20Skin%20Tone.png" alt="Man Student Medium-Dark Skin Tone" width="25" height="25" /> Enhancing my development skills at [Rocketseat](https://Rocketseat.com.br/).
 
-</br>
-<!--
-<p align="center">
-  <a href="#">
-    <img
-      align="center" src="https://github-readme-streak-stats.herokuapp.com?user=dsouloficial&theme=onedark&date_format=M%20j%5B%2C%20Y%5D&dates=737373&ring=DD8484&fire=E25822&stroke=00000000&currStreakNum=DD0D4F&currStreakLabel=A6A6A6&border=00000000&background=161B22" />
-  </a>
-</p>
--->
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=dsouloficial&show_icons=true&count_private=true&hide_border=true&title_color=00FF7F&icon_color=FFFAFA&text_color=ff91a4&bg_color=0d1117" alt="dsoul oficial github stats" /> 
+ <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="25" height="25" /> My current goal is to get my first job and, in the future, become a Fullstack.<br />
 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsouloficial&layout=compact&hide_border=true&title_color=00FF7F&text_color=ff91a4&bg_color=0d1117" />
-</div>
+ <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" /> My main stack is HTML5, CSS, Javascript, ReactJs, Nodejs, Figma, UX, and Styled-components.<br />
+ 
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Boy%20Light%20Skin%20Tone.png" alt="Boy Light Skin Tone" width="25" height="25" /> I always try to be a polite and respectful person, and I love interacting with new people and sharing my story.<br />
+
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Left%20Speech%20Bubble.png" alt="Left Speech Bubble" width="25" height="25" /> Want to talk about technology, games or sports? Send a message!
+
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Orange%20Heart.png" alt="Orange Heart" width="25" height="25" /> Check out my portfolio!
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="30" height="30" /> My GitHub Stats
+
+<details>
+  <summary> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien.png" alt="Alien" width="25" height="25" /> Engagement Level </summary>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=dsouloficial&show_icons=true&theme=radical" alt="GitHub Stats">
+  </p>
+</details>
+<details>
+  <summary> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25" /> GitHub Streak </summary>
+  <p>
+    <img src="https://streak-stats.demolab.com?user=dsouloficial&theme=radical&hide_border=true&locale=en" alt="GitHub Streak">
+  </p>
+</details>
+<details>
+  <summary> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="25" height="25" /> Top Languages </summary>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmandaFernandes0701&Dark_weight=0.5&count_weight=0.5&theme=radical" alt="Top Langs">
+  </p>
+</details>
 
 ### connect with me:
 <div>
@@ -53,31 +65,19 @@
   </a>
 </div>
 
+### Languages and Technologies
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css," />
+</a>
 
-### Frameworks, Plantforms and Libraries
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
+### Frameworks and Libraries
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,vite,sqlite,npm," />
 
-
-
-###  Styling Languages 
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-
-
-### Version Control
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-
-
-### Other
-![CodePen](https://img.shields.io/badge/CodePen-%23000000.svg?style=for-the-badge&logo=CodePen&logoColor=white) 
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-23114B?style=for-the-badge&logo=visualstudio&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
-![Windows](https://img.shields.io/badge/Windows-%20078D6.svg?style=for-the-badge&logo=Windows&logoColor=white) 
-![Discord](https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white)
-![Microsoft Teams](https://img.shields.io/badge/Microsoft%20Teams-6264A7.svg?logo=microsoftteams&style=for-the-badge&logoColor=fff)
+  ### Tools and Platforms
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,github,figma,npm,gitlab,codepen,notion,vscode," />
+</a>
 
 ---
 <p align="center">
@@ -92,4 +92,4 @@
 </div>
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FF7F&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/>
