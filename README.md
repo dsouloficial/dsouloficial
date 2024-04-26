@@ -41,7 +41,7 @@
 <details>
   <summary> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="25" height="25" /> Top Languages </summary>
   <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmandaFernandes0701&Dark_weight=0.5&count_weight=0.5&theme=radical" alt="Top Langs">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsouloficial&Dark_weight=0.5&count_weight=0.5&theme=radical" alt="Top Langs">
   </p>
 </details>
 
