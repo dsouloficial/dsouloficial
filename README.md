@@ -67,7 +67,7 @@
 
 ### Languages and Technologies
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css," />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,tailwind"/>
 </a>
 
 ### Frameworks and Libraries
