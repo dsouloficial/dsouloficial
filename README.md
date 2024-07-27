@@ -67,7 +67,7 @@
 
 ### Languages and Technologies
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,tailwind"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,tailwind, vercel netlifley"/>
 </a>
 
 ### Frameworks and Libraries
