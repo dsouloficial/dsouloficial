@@ -67,12 +67,12 @@
 
 ### Languages and Technologies
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,tailwind,"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,tailwind,netlify,vercel"/>
 </a>
 
 ### Frameworks and Libraries
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,vite,sqlite,npm,nextjs,vercel, netlifly" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,vite,sqlite,npm,nextjs," />
 
   ### Tools and Platforms
 <a href="https://skillicons.dev">
