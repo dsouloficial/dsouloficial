@@ -52,11 +52,11 @@
     <img height="28" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
 
-  <a href="https://twitter.com/dosouloficial" target="_blank">
+  <a href="https://twitter.com/" target="_blank">
     <img height="28" src="https://img.shields.io/badge/-Twitter-%230099B7?style=for-the-badge&logo=Twitter&logoColor=white" target="_blank">
   </a> 
 
-  <a href="https://www.instagram.com/dsouloficial/" target="_blank">
+  <a href="https://www.instagram.com//" target="_blank">
     <img height="28" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
 
