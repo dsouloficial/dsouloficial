@@ -48,7 +48,7 @@
 ### connect with me:
 <div>
 <p align="rigth">
-  <a href="https://www.linkedin.com/in/Denilson-Bernardo/" target="_blank">
+  <a href="https://www.linkedin.com/in//" target="_blank">
     <img height="28" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
 
